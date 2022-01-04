@@ -1,2 +1,2 @@
-moderator https://meteorclient.com/capes/moderator.png
+moderator https://github.com/slimakiswinka/sLime/blob/main/moderator.png?raw=true
 donator https://github.com/slimakiswinka/sLime/blob/main/donator.png?raw=true
