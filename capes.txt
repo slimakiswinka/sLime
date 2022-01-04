@@ -1,0 +1,2 @@
+moderator https://meteorclient.com/capes/moderator.png
+donator https://meteorclient.com/capes/donator.png
